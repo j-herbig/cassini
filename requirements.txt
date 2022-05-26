@@ -1,4 +1,7 @@
+bs4==0.0.1
+jupyter==1.0.0
 matplotlib==3.5.2
+nbformat==5.4.0
 pandas==1.4.2
 requests==2.27.1
 seaborn==0.11.2
